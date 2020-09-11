@@ -15,7 +15,7 @@
         "joining session",
         "participant joined",
         "call mode = direct link",
-        "getUserMedia called with constraints: {"audio":{},"video":{"width":1280,"height":720}}.",
+        "getUserMedia called with constraints: {audio:{},video:{width:1280,height:720}}.",
         "Audio turned off",
         "initiating peer-to-peer connections",
         "initiating peer-to-peer offer",
